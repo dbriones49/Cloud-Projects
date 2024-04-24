@@ -23,18 +23,6 @@ Provide training and support to the company staff on managing the database in th
 
 
 
-## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
-
-The architecture of the mini honeynet in Azure consists of the following components:
-
-- Virtual Network (VNet)
-- Network Security Group (NSG)
-- Virtual Machines (2 windows, 1 linux)
-- Log Analytics Workspace
-- Azure Key Vault
-- Azure Storage Account
-- Microsoft Sentinel
 
 
 
@@ -42,4 +30,3 @@ The architecture of the mini honeynet in Azure consists of the following compone
 
 ## Conclusion
 
-In this project, a mini honeynet was constructed in Microsoft Azure and log sources were integrated into a Log Analytics workspace. Microsoft Sentinel was employed to trigger alerts and create incidents based on the ingested logs. Additionally, metrics were measured in the insecure environment before security controls were applied, and then again after implementing security measures. It is noteworthy that the number of security events and incidents were drastically reduced after the security controls were applied, demonstrating their effectiveness.
