@@ -11,6 +11,7 @@ Next steps and asks were compiled to begin as follows:
 
 - Create the AWS Architecture.
 - Configure and launch the MySQL Server.
+- Secure the cloud resources
 - Implement the migration using AWS DMS.
 - Configure the AWS EBS Storage Service.
 - Configure AWS CloudWatch for monitoring the database
