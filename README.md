@@ -19,7 +19,8 @@ Conduct post migration testing and optimization to ensure the database is functi
 Provide training and support to the company staff on managing the database in the cloud.
 
 ## Cloud Archeticure
-![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/818bcbd5-4785-47ad-bcad-1139b8b94b5f)
+
+![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/f1a018e6-8b79-4ef0-9cb6-99f8c0cc4f67)
 
 
 
