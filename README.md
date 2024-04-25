@@ -9,15 +9,17 @@ This project involved a migration of an on premise database to AWS with minimal 
 ## Next Steps and Asks
 Next steps and asks were compiled to begin as follows:
 
-- Create the AWS Architecture.
-- Configure and launch the MySQL Server.
-- Secure the cloud resources
-- Implement the migration using AWS DMS.
-- Configure the AWS EBS Storage Service.
-- Configure AWS CloudWatch for monitoring the database
-- Integrate AWS Quicksight for reporting purposes and to ensure compatibility with their current methods.
-- Conduct post migration testing and optimization to ensure the database is functioning efficiently.
-- Provide training and support to the company staff on managing the database in the cloud.
+
+- Define the scope of the structure.
+- Access the current database environment and gather necessary information.
+- Choose the appropriate AWS Database serivce for migration.
+- Deploy the new database instance in AWS.
+- Configure security settings and access controls for the database.
+- Migrate data from the existing database to the new AWS database instance.
+- Measure baseline performance metrics before Migration.
+- Conduct post-migration testing to ensure data integrtiy and fucntionality.
+- Optimize database performance and make nessessary adjustments.
+- Monitor and manage the new AWS database instance for ongoing performance and security.
 
 ## Cloud Archeticure
 
