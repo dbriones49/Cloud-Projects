@@ -9,7 +9,7 @@ This project involved a migration of an on premise database to AWS with minimal 
 ## Next Steps and Asks
 Next steps and asks were compiled to begin as follows:
 
-Create the AWS Architecture.
+- Create the AWS Architecture.
 Configure and launch the MySQL Server.
 Implement the migration using AWS DMS.
 Configure the AWS EBS Storage Service.
