@@ -5,6 +5,8 @@
 
 This project involved a migration of an on premise database to AWS with minimal changes to their current environment. They would like no disruption to their current reporting methods, no impact on any current management processes or tools, and they would like ease of data migration. Andre, is a database lead for the company. He has additional requirements, which include reduction operational management, increasing resilience and availability, mitigating risk of deployment in one location, implementing a mechanism for data archives, and potentially bringing in interns to support the DBA team.
 
+This is a project focusing on the deployment of a new database cloud archeticture, versus a project that focuses on the console construction of the instances and services.
+
 
 ## Next Steps and Asks
 Next steps and asks were compiled to begin as follows:
