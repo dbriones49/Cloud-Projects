@@ -1,4 +1,4 @@
-# Database Migration Archetictue
+# Database Migration Architecture
 
 
 ## Introduction
