@@ -31,7 +31,7 @@ Next steps and asks were compiled to begin as follows:
 - Optimize database performance and make nessessary adjustments.
 - Monitor and manage the new AWS database instance for ongoing performance and security.
 
-To define the scope, we must identify the databases that need to be migrated, defing the migration strategy, determine the migration method, define the target AWS infrastructure, identify any dependencies between databases or applications that may impact the migration process, define the migration timeline, and identify key stakeholders.
+To define the scope, we must identify the databases that need to be migrated, defing the migration strategy, determine the migration method, define the target AWS infrastructure, identify any dependencies between databases or applications that may impact the migration process, define the migration timeline, and identify key stakeholders. It is crucial in setting Milestones with timing expectations and relaying those expections as well as providing updates at each phase to the key stakeholders.
 
 The current database must then be accessed for serveral reasons. The current database environment must be identified, information about the database schema must be collected, the data size and volume must be determined, any custom scripts or stored procedures must be identified, database version and configuration must be determined, dependencies must be identified, compliance and security requirements must be evaluated, and performance and scalability requirements must be assessed.
 
