@@ -69,4 +69,5 @@ Finally, resources such as AWS Cloudwatch and QuickSight can assit in monitoring
 
 
 ## Conclusion
+Understanding the client's needs is crucial in determining the scope and requirements of the data migration project. It helps in identifying the specific goals and objectives that need to be achieved. Understanding the current resources allows for a more efficient migration process, as it helps in assessing the existing infrastructure and data to be migrated. Utilizing the AWS Well-Architected Framework ensures that the cloud solutions are built in a secure, reliable, and cost-effective manner, ultimately leading to successful data migration and deployment
 
