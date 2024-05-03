@@ -59,7 +59,8 @@ Finally, resources such as AWS Cloudwatch and QuickSight can assist in monitorin
 
 ## Cloud Archeticure
 
-![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/785f1930-9efd-48fa-9ba8-404dc623ce8f)
+
+![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/5ffd1a1f-07fb-4764-846e-5538f1717043)
 
 
 
