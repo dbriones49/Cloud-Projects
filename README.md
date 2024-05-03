@@ -53,6 +53,8 @@ After migration and testing in AWS cloud, items such as database performance, st
 
 Finally, resources such as AWS Cloudwatch and QuickSight can assist in monitoring and managing the new AWS database. AWS CloudWatch can be used to monitor the performance of the new AWS database instance by setting up alarms for key performance metrics such as CPU utilization, disk I/O, and memory usage. Amazon QuickSight can be used to create dashboards and visualizations that provide insights into the performance and security of the database instance. QuickSight can be configured to pull in data from CloudWatch and other monitoring tools to provide a comprehensive view of the database's health. By using these resources in conjunction with each other, administrators can proactively monitor and manage the new AWS database instance to ensure ongoing performance and security.
 
+The Back up strategy will rely on using EBS snapshots, as they allow for faster recovery for auditing purposes. The architecture will include using two availability zones for redundancy. 
+
 
 
 
