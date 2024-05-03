@@ -23,7 +23,7 @@ Next steps and asks were compiled to begin as follows:
 - Define the scope of the structure.
 - Access the current database environment and gather necessary information.
 - Choose the appropriate AWS Database service for migration.
-- Deploy the new database instance in AWS.
+- Deploy the new database instance and other resources in AWS.
 - Configure security settings and access controls for the database.
 - Measure baseline performance metrics before Migration.
 - Migrate data from the existing database to the new AWS database instance.
