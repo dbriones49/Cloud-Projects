@@ -62,7 +62,8 @@ The Back up strategy will rely on using EBS snapshots, as they allow for faster 
 ## Cloud Archeticure
 
 
-![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/5ffd1a1f-07fb-4764-846e-5538f1717043)
+
+![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/f0cad0ab-c617-4d56-b968-6e1c7865789e)
 
 
 
