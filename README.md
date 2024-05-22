@@ -63,9 +63,10 @@ The Back up strategy will rely on using EBS snapshots, as they allow for faster 
 
 
 
-![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/7c695e83-e59a-43c6-a2e2-e06ae8659971)
 
 
+
+![image](https://github.com/dbriones49/Cloud-Projects/assets/143753667/22059b62-dbd4-4da8-a3af-8ceaa56eb70b)
 
 
 
